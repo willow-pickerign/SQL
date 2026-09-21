@@ -11,13 +11,13 @@ An introduction the SQL Programming Language
 
   ### How to Learn SQL
   There are a lot of online resources that help make learning SQL easy. Some websites that have tutorials for SQL are:
-  [www.sqlcourse.com ](url)
-  [https://www.w3schools.com/sql/ ](url)
-  [https://www.geeksforgeeks.org/sql/sql-tutorial/](url)
+  - [www.sqlcourse.com ](url)
+  - [https://www.w3schools.com/sql/ ](url)
+  - [https://www.geeksforgeeks.org/sql/sql-tutorial/](url)
   
   If you're feeling like you want other methods of learning SQL, try:
-  _Learning SQL Stack Overflow_ - it's a free eBook textbook that goes through SQL skills
-  _SQL Tutorial Playlist by Software Testing Mentor_ - it's a YouTube playlist where each short video showcases a concept or skill
+  - _Learning SQL Stack Overflow_ - it's a free eBook textbook that goes through SQL skills
+  - _SQL Tutorial Playlist by Software Testing Mentor_ - it's a YouTube playlist where each short video showcases a concept or skill
   
   
 
