@@ -10,12 +10,15 @@
   #My server is MariaDB, so the syntax may differ from another. This file has 4 queries that you can run separately from each other.
 
 #creating a table with the title and year established
+
 CREATE TABLE Musicals(
   title text,
   year_est int
 );
 
+
 #adding some data into the table
+
 INSERT INTO Musicals (title, year_est)
   VALUES ("Annie", 1977);
 
