@@ -1,4 +1,8 @@
-# SQL
+### SQL
 An introduction to using SQL
 
-# SQL
+## History
+thing
+
+# Another
+thing
