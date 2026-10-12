@@ -15,6 +15,7 @@ SET @question = 1;   //for Booleans. True is 1 and False is 0
 
 SQL does not have inherent dictionary or array data types because it's basically a lot of tables.
 However, SQL does have some interesting data types like date/time, xml, and geography!
+
 DECLARE @portland GEOGRAPHY;
 SET @portland = geography("45 31 12 N 122 40 55 W");
 SELECT @portland
