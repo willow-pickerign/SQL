@@ -6,7 +6,7 @@ DECLARE @age INT;   //For integers, 1st line declared the variable
 SELECT @age = 35;  //assigned value to the variable
 SELECT @age years_old  //displays the value
 
-DECLARE @flour_in_grams FLOAT;  //for floats
+DECLARE @flour_in_grams FLOAT;  //for floats #t
 DECLARE @first_name VARCHAR;   //for strings
 DECLARE @question BIT;
 SET @question = 1;   //for Booleans. True is 1 and False is 0
