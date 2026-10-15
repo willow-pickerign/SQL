@@ -32,3 +32,15 @@ It's a weakly typed language; which means that it can crash if you enter code in
 A limitation with SQL may be differentiating between all the different data types. It's ok to look up what you want your specific data type to be. You can use [https://www.geeksforgeeks.org/sql/sql-data-types/](url) as a resource.
 
 Some of the more complex data types are in a special category because they have specific data to enter. For example, if you want to enter in data in a Euclidean coordinate system, use the GEOMETRY data type.
+
+## Experimenting with changing values within tables
+
+It looks like you can switch between datatypes for values, but make sure that you get the correct syntax for your server.
+
+#attempting to insert a string variable into the INT variable category of year_est
+INSERT INTO Musicals (title, year_est) VALUES ("Mamma Mia", "1999");
+
+
+#updating existing row int variable to a float
+UPDATE Musicals SET year_est=2015.1 WHERE title = "Hamilton";
+
