@@ -1,0 +1,7 @@
+#This is for an already created Musicals table
+
+
+
+#attempting to insert a string variable into the INT variable category of year_est INSERT INTO Musicals (title, year_est) VALUES ("Mamma Mia", "1999");
+
+#updating existing row int variable to a float UPDATE Musicals SET year_est=2015.1 WHERE title = "Hamilton";
