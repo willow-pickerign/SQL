@@ -40,7 +40,17 @@ It looks like you can switch between datatypes for values, but make sure that yo
 #attempting to insert a string variable into the INT variable category of year_est
 INSERT INTO Musicals (title, year_est) VALUES ("Mamma Mia", "1999");
 
-
 #updating existing row int variable to a float
 UPDATE Musicals SET year_est=2015.1 WHERE title = "Hamilton";
 
+## References
+[https://www.geeksforgeeks.org/sql-server/how-to-declare-a-variable-in-sql-server/](url)
+[https://www.geeksforgeeks.org/sql/sql-data-types/ ](url)
+[https://www.sqlshack.com/learn-sql-naming-conventions/](url)
+[https://www.mssqltips.com/sqlservertip/7181/sql-variable-examples-stored-procedures-functions-scripts-sqlcmd/](url)
+[https://www.w3schools.com/SQL/sql_ref_keywords.asp](url)
+[https://www.geeksforgeeks.org/sql/difference-static-dynamic-sql/](url)
+[https://www.w3schools.com/sql/sql_operators.asp](url)
+[https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-type-conversion-database-engine?view=sql-server-ver17](url)
+[https://learn.microsoft.com/en-us/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver17](url)
+[https://www.mssqltips.com/sqlservertip/7181/sql-variable-examples-stored-procedures-functions-scripts-sqlcmd/](url)
